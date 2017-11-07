@@ -6,3 +6,15 @@ bin/
 GPATH
 GRTAGS
 GTAGS
+
+# Created by https://www.gitignore.io/api/cuda
+
+### CUDA ###
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# End of https://www.gitignore.io/api/cuda

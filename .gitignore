@@ -3,3 +3,6 @@ bin/
 .cproject
 .project
 .history/
+GPATH
+GRTAGS
+GTAGS

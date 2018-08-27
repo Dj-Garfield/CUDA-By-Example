@@ -22,7 +22,7 @@ struct Sphere {
 		return -INF;
 	}
 };
-#define SPHERES 20
+#define SPHERES 100
 
 __constant__ Sphere s[SPHERES];
 

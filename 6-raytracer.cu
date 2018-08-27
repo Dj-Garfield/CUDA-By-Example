@@ -22,7 +22,7 @@ struct Sphere {
 		return -INF;
 	}
 };
-#define SPHERES 20
+#define SPHERES 100
 
 __global__ void kernel( Sphere *s, unsigned char* ptr ) {
 	// map from threadIdx/blockIdx to pixel position
